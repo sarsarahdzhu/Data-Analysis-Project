@@ -1,3 +1,8 @@
-# Drug Abuse + Mental Health Data Analysis Project
-## Objective 
-## About the Datasets 
+# Exploratory-Data-Analysis: Drug Abuse and Mental Health
+## Overview
+This repository contains the code and data for an exploratory data analysis (EDA) project focused on drug abuse and mental health. The goal pf the project is to ... 
+
+## Data
+## Analysis
+## Results
+
